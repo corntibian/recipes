@@ -3,6 +3,8 @@
 - Tårtbotten
 - Mjölk
 - Jordgubbar
-- Vaniljkröm
+- Vaniljkräm
+- Socker
+- Jordnötter
 
 Klicka på [denna länken](https://google.com) för att göra något.
